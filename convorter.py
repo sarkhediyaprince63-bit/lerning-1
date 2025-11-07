@@ -1,0 +1,16 @@
+def temp(c):
+    f=(9/5)*c+32
+    return print(f)
+c=input("write the tamprature incel")
+c=int(c)
+
+c=input("write the tamprature in cel")
+c=int(c)
+def leng(m,s):
+    h=m/60+s/3600
+    return print (h)
+m=input("write the numbers of minites")
+m=int(m)
+s=input("write the numbetr of second")
+s=int(s)
+leng(m,s)
